@@ -14,6 +14,7 @@ Nesse projeto criamos os componentes, utilizamos estados da página, criamos fav
  + Angular
  + Nrgx
  + Github
+ + ngx-bootstrap
 
 # Como testar
 
@@ -32,3 +33,5 @@ Para acessar detalhes sobre os dados, basta clicar em 'Ver detalhes'.
 Os detalhes da previsão do tempo para os próximos dias são exibidos.
 
 Podemos também adicionar e remover cidades aos favoritos para maior facilidade de consulta.
+Todas as informações de clima são recebidas da OpenWeather API.
+

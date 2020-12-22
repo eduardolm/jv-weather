@@ -1,4 +1,5 @@
-import { Component, ChangeDetectionStrategy, Input } from "@angular/core";
+
+import { Component, ChangeDetectionStrategy, Input } from '@angular/core';
 
 import * as moment from 'moment-timezone';
 
