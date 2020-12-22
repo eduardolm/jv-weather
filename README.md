@@ -34,3 +34,4 @@ Os detalhes da previsão do tempo para os próximos dias são exibidos.
 
 Podemos também adicionar e remover cidades aos favoritos para maior facilidade de consulta.
 Todas as informações de clima são recebidas da OpenWeather API.
+
